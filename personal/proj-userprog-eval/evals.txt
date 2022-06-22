@@ -1,0 +1,4 @@
+Name|Autograder ID (XXX)|Score|Comment
+Aidan Tong|160|20|Everyone particpated substantially in design document. Aidan did arg passing and process syscall with Jack and handles all the bugs seamlessly. 
+Jack Wang|145|20|Everyone participated substantially in design document. jack did arg passing and process syscall with Aidan, and actively particpated in discussion in filesys and FPU to help with debugging. 
+Rachit Pareek|114|20|Everyone particpated substantially in design document. Rachit lead the inital discussion of design doc, and finished filesys portion.

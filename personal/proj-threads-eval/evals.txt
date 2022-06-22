@@ -1,0 +1,4 @@
+Name|Autograder ID (XXX)|Score|Comment
+Aidan Tong|160|18|Everyone particpated substantially in design document. Aidan did strict priority scheduler and alarm clock, as well as some debugging for synchronization.
+Jack Wang|145|24|Everyone participated substantially in design document. Jack is the mastermind of the team, did a majority of the design doc, implementedalarm clock and priority scheduler with Aidan. He also debugged a ton for exit-clean test cases.
+Rachit Pareek|114|18|Everyone particpated substantially in design document. Rachit did all the synchronization code, also contirbuted a bit on scheduler.

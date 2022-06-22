@@ -1,0 +1,2 @@
+Single characters, new lines, punctuation and word
+something a b c.
